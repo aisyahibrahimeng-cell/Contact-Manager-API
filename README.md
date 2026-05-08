@@ -110,8 +110,3 @@ This project was tested using:
 - MongoDB CRUD Operations
 - Secure Backend Development Practices
 
----
-
-## 👨‍💻 Author
-
-Developed by [Your Name]
